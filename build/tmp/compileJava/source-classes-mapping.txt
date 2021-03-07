@@ -1,2 +1,0 @@
-FirstProject/Application.java
- FirstProject.Application
