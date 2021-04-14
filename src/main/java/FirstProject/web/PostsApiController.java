@@ -1,6 +1,6 @@
 package FirstProject.web;
 
-import FirstProject.service.posts.PostsService;
+import FirstProject.service.PostsService;
 import FirstProject.web.dto.PostsListResponseDto;
 import FirstProject.web.dto.PostsResponseDto;
 import FirstProject.web.dto.PostsSaveRequestDto;
