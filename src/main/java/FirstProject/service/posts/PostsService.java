@@ -1,4 +1,4 @@
-package FirstProject.service;
+package FirstProject.service.posts;
 
 import FirstProject.domain.posts.Posts;
 import FirstProject.domain.posts.PostsRepository;

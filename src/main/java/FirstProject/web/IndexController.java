@@ -2,7 +2,7 @@ package FirstProject.web;
 
 import FirstProject.config.auth.LoginUser;
 import FirstProject.config.auth.dto.SessionUser;
-import FirstProject.service.PostsService;
+import FirstProject.service.posts.PostsService;
 import FirstProject.web.dto.PostsResponseDto;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Controller;
